@@ -1,0 +1,6 @@
+owner=579808920873467904
+prefix=13
+game=Type 13help
+stayinchannel=true
+songinstatus=false
+token=NTgyNzU4OTcyMjIyODY1NDM2.XOyqow.RFiCv7cC5_w1x8en57NdJW9qZhI
